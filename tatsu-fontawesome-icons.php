@@ -13,9 +13,9 @@
  * @package           Tatsu_Fontawesome_Icons
  *
  * @wordpress-plugin
- * Plugin Name:       WordPress Plugin Boilerplate
+ * Plugin Name:       Tatsu <--> Font Awesome Icons
  * Plugin URI:        http://example.com/tatsu-fontawesome-icons-uri/
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Imports Font Awesome icons for useage within Tatsu
  * Version:           1.0.0
  * Author:            Your Name or Your Company
  * Author URI:        http://example.com/
