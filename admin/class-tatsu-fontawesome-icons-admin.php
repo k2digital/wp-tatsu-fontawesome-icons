@@ -1542,7 +1542,7 @@ class Tatsu_Fontawesome_Icons_Admin {
       'fas fa-zhihu',
     );
     $current_stylesheet_uri = get_stylesheet_directory_uri();
-    tatsu_register_icon_kit('fontawesome', __( 'Font Awesome', 'tatsu' ) , $custom_icon_array , $current_stylesheet_uri.'/icons/icons.css' );
+    tatsu_register_icon_kit('fontawesome', __('Font Awesome', 'tatsu-fontawesome-icons') , $custom_icon_array , $current_stylesheet_uri.'/icons/icons.css');
   }
 
   // Tatsu unloads everything when it boots up, so we have to re-load fontawesome.
